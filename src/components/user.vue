@@ -361,10 +361,6 @@ export default {
 }
 </script>
 <style lang="css" scoped>
-.el-breadcrumb {
-  line-height: 1.5;
-  margin-bottom: 10px;
-}
 .search {
   margin-bottom: 15px;
 }
